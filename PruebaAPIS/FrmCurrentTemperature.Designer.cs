@@ -321,6 +321,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "FrmCurrentTemperature";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.FrmCurrentTemperature_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbWeather)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

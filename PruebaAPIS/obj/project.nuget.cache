@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6KT6iS1ukDhtPgVO4LGh5USJSIhpVIw5k8jGi4S2duKtEtAfoh/G5AZZUJ2U6b1cVay6UInL/PqioC2hwnz41g==",
+  "dgSpecHash": "E4sxz5RGDfNzeEGz6u02Q6MmB/dlLb0OF4hArj8s4TigW0wAgWJRPZl4v+ZFwlDG6YIjnNgYR2ldA5HpYcjjFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanro\\source\\repos\\PruebaAPIS\\PruebaAPIS\\PruebaAPIS.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\PruebaAPIS\\PruebaAPIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\larry\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\larry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\larry\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,3 +1,8 @@
+using Autofac;
+using Domain.Interfaces;
+using Infraestructure;
+using Service.Interface;
+using Service.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,10 +19,13 @@ namespace PruebaAPIS
         [STAThread]
         static void Main()
         {
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            var builder = new ContainerBuilder();
+            builder.RegisterType<JsonWeatherRepository>().As<IWeatherInfo>();
+            builder.RegisterType<WeatherService>().As<IWheaterService>();
+            var container = builder.Build();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCurrentTemperature());
+            Application.Run(new FrmCurrentTemperature(container.Resolve<IWheaterService>()));
         }
     }
 }
