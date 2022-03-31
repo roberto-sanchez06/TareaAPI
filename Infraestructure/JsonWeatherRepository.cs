@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Domain.Entities.WeatherInfo;
 using Domain.Interfaces;
 using Newtonsoft.Json;
 using System;
@@ -10,22 +11,37 @@ namespace Infraestructure
 {
     public class JsonWeatherRepository : IWeatherInfo
     {
-        private WeatherInfo.root info;
+        private Root info;
+        private ForecastInfo forecastInfo;
+        private double lat;
+        private double lon;
         private const string APIKEY= "db4fdcfcdeb09e6c36b4ef18af3b59dc";
-        public WeatherInfo.root GetWeather(string ciudad)
+        public Root GetWeather(string ciudad)
         {
             using (WebClient web = new WebClient())
             {
                 string url = $@"https://api.openweathermap.org/data/2.5/weather?q={ciudad}&appid={APIKEY}";
                 var json = web.DownloadString(url);
-                info = JsonConvert.DeserializeObject<WeatherInfo.root>(json);
+                info = JsonConvert.DeserializeObject<Root>(json);
+                lat = info.coord.lat;
+                lon = info.coord.lon;
                 return info;
             }
         }
-        public string GetImageLocation(WeatherInfo.root clima)
+        public string GetImageLocation(weather w)
         {
-            string imageLocation = $@"https://openweathermap.org/img/w/{clima.weather[0].icon}.png";
+            string imageLocation = $@"https://openweathermap.org/img/w/{w.icon}.png";
             return imageLocation;
+        }
+        public ForecastInfo GetWeatherForecast()
+        {
+            using (WebClient web = new WebClient())
+            {
+                string url = $@"https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude=current,minutely,hourly,alerts&appid={APIKEY}";
+                var json = web.DownloadString(url);
+                forecastInfo = JsonConvert.DeserializeObject<ForecastInfo>(json);
+            }
+            return forecastInfo;
         }
     }
 }

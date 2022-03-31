@@ -1,4 +1,5 @@
-﻿using Service.Interface;
+﻿using Domain.Entities;
+using Service.Interface;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -36,13 +37,17 @@ namespace PruebaAPIS
                 lblLat.Text = climas.coord.lat.ToString();
                 lblHuminity.Text = climas.main.humidity.ToString();
                 lblCountry.Text = climas.sys.country;
-                pbWeather.ImageLocation = wheaterser.GetImageLocation(climas);
+                pbWeather.ImageLocation = wheaterser.GetImageLocation(climas.weather[0]);
                 lblCondition.Text = climas.weather[0].main.ToString();
                 lblDetails.Text = climas.weather[0].description.ToString();
+
+                ShowForecast();
+
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message,"ERROR",MessageBoxButtons.OK,MessageBoxIcon.Error);;
+                
             }
         }
 
@@ -54,6 +59,22 @@ namespace PruebaAPIS
             DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc).ToLocalTime();
             day = day.AddSeconds(milisegundos).ToLocalTime();
             return day;
+        }
+        private void ShowForecast()
+        {
+            ForecastInfo forecast = wheaterser.GetWeatherForecast();
+            FrmForecast frmForecast;
+            for(int i=0; i<8; i++)
+            {
+                frmForecast = new FrmForecast();
+                frmForecast.TopLevel = false;
+                frmForecast.pictureBox1.ImageLocation = wheaterser.GetImageLocation(forecast.daily[i].weather[0]);
+                frmForecast.lblDescription.Text = forecast.daily[i].weather[0].description;
+                frmForecast.lblWeather.Text = forecast.daily[i].weather[0].main;
+                frmForecast.lblDay.Text = convertToDateTime(forecast.daily[i].dt).DayOfWeek.ToString();
+                flowLayoutPanel1.Controls.Add(frmForecast);
+                frmForecast.Show();
+            }
         }
     }
 }

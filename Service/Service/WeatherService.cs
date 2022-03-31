@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Domain.Entities.WeatherInfo;
 using Domain.Interfaces;
 using Service.Interface;
 using System;
@@ -17,14 +18,19 @@ namespace Service.Service
             this.weatherInfo = weatherInfo;
         }
 
-        public string GetImageLocation(WeatherInfo.root clima)
+        public string GetImageLocation(weather w)
         {
-            return weatherInfo.GetImageLocation(clima);
+            return weatherInfo.GetImageLocation(w);
         }
 
-        public WeatherInfo.root GetWeather(string ciudad)
+        public Root GetWeather(string ciudad)
         {
             return weatherInfo.GetWeather(ciudad);
+        }
+
+        public ForecastInfo GetWeatherForecast()
+        {
+            return weatherInfo.GetWeatherForecast();
         }
     }
 }

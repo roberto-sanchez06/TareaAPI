@@ -54,6 +54,7 @@
             this.lblLat = new System.Windows.Forms.Label();
             this.pbWeather = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             ((System.ComponentModel.ISupportInitialize)(this.pbWeather)).BeginInit();
             this.SuspendLayout();
             // 
@@ -349,13 +350,24 @@
             this.label1.TabIndex = 26;
             this.label1.Text = "Name of city";
             // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.AutoScroll = true;
+            this.flowLayoutPanel1.BackColor = System.Drawing.Color.Transparent;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(38, 349);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(795, 123);
+            this.flowLayoutPanel1.TabIndex = 27;
+            this.flowLayoutPanel1.WrapContents = false;
+            // 
             // FrmCurrentTemperature
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(870, 458);
+            this.ClientSize = new System.Drawing.Size(870, 485);
+            this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pbWeather);
             this.Controls.Add(this.lblLat);
@@ -417,5 +429,6 @@
         private System.Windows.Forms.Label lblLat;
         private System.Windows.Forms.PictureBox pbWeather;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
     }
 }
