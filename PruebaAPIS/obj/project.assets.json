@@ -170,25 +170,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\larry\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sanro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\PruebaAPIS\\PruebaAPIS.csproj",
+      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\PruebaAPIS\\PruebaAPIS.csproj",
       "projectName": "PruebaAPIS",
-      "projectPath": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\PruebaAPIS\\PruebaAPIS.csproj",
-      "packagesPath": "C:\\Users\\larry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\PruebaAPIS\\obj\\",
+      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\PruebaAPIS\\PruebaAPIS.csproj",
+      "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\PruebaAPIS\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\larry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
@@ -201,11 +196,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\Infraestructure\\Infraestructure.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Infraestructure\\Infraestructure.csproj"
             },
-            "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\Service\\Service.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Service\\Service.csproj"
             }
           }
         }
@@ -243,7 +238,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

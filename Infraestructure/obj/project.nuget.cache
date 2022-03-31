@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dR/8u/+h4BIBerSp2bgE7m2w1S1ztICJjyuZBHVX+ZcSD3Vq3UoUrzNDz9ECPbyrxQSAtsqTNYQVxkajKFUCXg==",
+  "dgSpecHash": "nhEBeR4SundUYkdUm/nqzzWTdjvQW/I1afDDA2x5Nn/cf0zr2Lh/px/lrKxooX4khEOv+YNgMijlZge3xD9pCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\larry\\Desktop\\prueba3\\WeatherAPI\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\larry\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\larry\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\larry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\sanro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sanro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sanro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

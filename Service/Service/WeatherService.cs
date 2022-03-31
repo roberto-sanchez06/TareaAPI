@@ -17,6 +17,11 @@ namespace Service.Service
             this.weatherInfo = weatherInfo;
         }
 
+        public string GetImageLocation(WeatherInfo.root clima)
+        {
+            return weatherInfo.GetImageLocation(clima);
+        }
+
         public WeatherInfo.root GetWeather(string ciudad)
         {
             return weatherInfo.GetWeather(ciudad);

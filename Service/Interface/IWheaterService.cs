@@ -8,5 +8,6 @@ namespace Service.Interface
     public interface IWheaterService
     {
         WeatherInfo.root GetWeather(string ciudad);
+        string GetImageLocation(WeatherInfo.root clima);
     }
 }

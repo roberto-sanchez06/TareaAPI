@@ -8,5 +8,6 @@ namespace Domain.Interfaces
     public interface IWeatherInfo
     {
         WeatherInfo.root GetWeather(string ciudad);
+        string GetImageLocation(WeatherInfo.root clima);
     }
 }

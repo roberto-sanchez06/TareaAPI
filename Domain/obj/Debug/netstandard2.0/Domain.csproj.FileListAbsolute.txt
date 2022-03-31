@@ -8,3 +8,13 @@ C:\Users\larry\Desktop\prueba3\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain
 C:\Users\larry\Desktop\prueba3\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
 C:\Users\larry\Desktop\prueba3\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Users\larry\Desktop\prueba3\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb
