@@ -18,6 +18,11 @@ namespace Service.Service
             this.weatherInfo = weatherInfo;
         }
 
+        public DateTime convertToDateTime(long milisegundos)
+        {
+            return weatherInfo.convertToDateTime(milisegundos);
+        }
+
         public string GetImageLocation(weather w)
         {
             return weatherInfo.GetImageLocation(w);

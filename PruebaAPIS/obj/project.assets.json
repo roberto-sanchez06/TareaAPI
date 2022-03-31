@@ -175,11 +175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\PruebaAPIS\\PruebaAPIS.csproj",
+      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\PruebaAPIS\\PruebaAPIS.csproj",
       "projectName": "PruebaAPIS",
-      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\PruebaAPIS\\PruebaAPIS.csproj",
+      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\PruebaAPIS\\PruebaAPIS.csproj",
       "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\PruebaAPIS\\obj\\",
+      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\PruebaAPIS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,11 +196,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Infraestructure\\Infraestructure.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\Infraestructure\\Infraestructure.csproj"
             },
-            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Service\\Service.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\Service\\Service.csproj"
             }
           }
         }

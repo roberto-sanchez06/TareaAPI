@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t48UmvTo8WlwPur94+Bb5HWNyOPP7eNAm4WIRvIQwmtE6NLCiZy+SIgqSykJz0jVZH5Kc92+NhpMosEg67nYzw==",
+  "dgSpecHash": "KGKOMkBmg+bv+jht0dzZYdVyhGtqrni3qSqwXHLYLKEGkIM8TWfjbcytXokFaoi+dON4l6JjmK8nnTP2crGPNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\PruebaAPIS\\PruebaAPIS.csproj",
+  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API CLIMA\\TareaAPI\\PruebaAPIS\\PruebaAPIS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanro\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\sanro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

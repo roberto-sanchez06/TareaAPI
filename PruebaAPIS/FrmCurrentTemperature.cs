@@ -26,10 +26,10 @@ namespace PruebaAPIS
             try
             {
                 var climas = wheaterser.GetWeather(textBox1.Text);
-                lblWindSpeed.Text = climas.wind.speed.ToString();
+                lblWindSpeed.Text = climas.wind.speed.ToString()+" m/s";
                 lblTemp.Text = climas.main.temp.ToString()+" K";
-                lblSunset.Text = convertToDateTime(climas.sys.sunset).ToShortTimeString();
-                lblSunrise.Text = convertToDateTime(climas.sys.sunrise).ToShortTimeString();
+                lblSunset.Text = wheaterser.convertToDateTime(climas.sys.sunset).ToShortTimeString();
+                lblSunrise.Text = wheaterser.convertToDateTime(climas.sys.sunrise).ToShortTimeString();
                 lblPressure.Text = climas.main.pressure.ToString();
                 lblMinTemp.Text = climas.main.temp_min.ToString()+" K";
                 lblMaxTemp.Text = climas.main.temp_max.ToString()+" K";
@@ -54,12 +54,6 @@ namespace PruebaAPIS
         private void FrmCurrentTemperature_Load(object sender, EventArgs e)
         {
         }
-        private DateTime convertToDateTime(long milisegundos)
-        {
-            DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc).ToLocalTime();
-            day = day.AddSeconds(milisegundos).ToLocalTime();
-            return day;
-        }
         private void ShowForecast()
         {
             ForecastInfo forecast = wheaterser.GetWeatherForecast();
@@ -71,7 +65,7 @@ namespace PruebaAPIS
                 frmForecast.pictureBox1.ImageLocation = wheaterser.GetImageLocation(forecast.daily[i].weather[0]);
                 frmForecast.lblDescription.Text = forecast.daily[i].weather[0].description;
                 frmForecast.lblWeather.Text = forecast.daily[i].weather[0].main;
-                frmForecast.lblDay.Text = convertToDateTime(forecast.daily[i].dt).DayOfWeek.ToString();
+                frmForecast.lblDay.Text = wheaterser.convertToDateTime(forecast.daily[i].dt).DayOfWeek.ToString();
                 flowLayoutPanel1.Controls.Add(frmForecast);
                 frmForecast.Show();
             }

@@ -83,3 +83,32 @@ C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\PruebaAP
 C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.pdb
 C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.genruntimeconfig.cache
 C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\ref\PruebaAPIS.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\PruebaAPIS.exe
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\PruebaAPIS.deps.json
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\PruebaAPIS.runtimeconfig.json
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\PruebaAPIS.runtimeconfig.dev.json
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\PruebaAPIS.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\PruebaAPIS.pdb
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Autofac.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Domain.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Infraestructure.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Service.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Infraestructure.pdb
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Service.pdb
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\bin\Debug\net5.0-windows\Domain.pdb
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.csproj.AssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.FrmCurrentTemperature.resources
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.FrmForecast.resources
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\refint\PruebaAPIS.dll
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.pdb
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\PruebaAPIS.genruntimeconfig.cache
+C:\Users\sanro\OneDrive\Escritorio\API CLIMA\TareaAPI\PruebaAPIS\obj\Debug\net5.0-windows\ref\PruebaAPIS.dll

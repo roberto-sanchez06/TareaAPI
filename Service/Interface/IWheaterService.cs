@@ -11,5 +11,6 @@ namespace Service.Interface
         Root GetWeather(string ciudad);
         string GetImageLocation(weather w);
         ForecastInfo GetWeatherForecast();
+        DateTime convertToDateTime(long milisegundos);
     }
 }

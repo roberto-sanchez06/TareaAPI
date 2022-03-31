@@ -43,5 +43,11 @@ namespace Infraestructure
             }
             return forecastInfo;
         }
+        public DateTime convertToDateTime(long milisegundos)
+        {
+            DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc).ToLocalTime();
+            day = day.AddSeconds(milisegundos).ToLocalTime();
+            return day;
+        }
     }
 }
