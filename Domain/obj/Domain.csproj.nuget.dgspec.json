@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\Domain.csproj": {}
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8Th9IQOXfJJ6JZ6VB02SW9BWV3Jq69kkTHmmS0KZ3DxlMc+K4tiKBB6s6BX46mCfVs4kW7JMkmHtBYCs8Vtsg==",
+  "dgSpecHash": "PEC92RU/usdjmt42144qdPuYuRUY+23IDwuTChxqMhc6sM/hyDSFGS0YUBE47oMBHDQrh46qdvfFXzcOjqsaKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sanro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -238,11 +238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Infraestructure\\Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Infraestructure\\Infraestructure.csproj",
       "projectName": "Infraestructure",
-      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Infraestructure\\Infraestructure.csproj",
+      "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Infraestructure\\Infraestructure.csproj",
       "packagesPath": "C:\\Users\\sanro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Infraestructure\\obj\\",
+      "outputPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -259,8 +259,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API\\WeatherAPI\\Domain\\Domain.csproj"
+            "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\sanro\\OneDrive\\Escritorio\\API WEATHER\\segunda version\\TareaAPI\\Domain\\Domain.csproj"
             }
           }
         }

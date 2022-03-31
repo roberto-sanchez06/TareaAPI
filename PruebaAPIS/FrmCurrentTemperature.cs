@@ -40,7 +40,7 @@ namespace PruebaAPIS
                 pbWeather.ImageLocation = wheaterser.GetImageLocation(climas.weather[0]);
                 lblCondition.Text = climas.weather[0].main.ToString();
                 lblDetails.Text = climas.weather[0].description.ToString();
-
+                flowLayoutPanel1.Controls.Clear();
                 ShowForecast();
 
             }

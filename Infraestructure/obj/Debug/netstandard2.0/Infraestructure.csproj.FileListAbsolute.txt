@@ -24,3 +24,16 @@ C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Infraestructure\obj\Debug\nets
 C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CopyComplete
 C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.dll
 C:\Users\sanro\OneDrive\Escritorio\API\WeatherAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.deps.json
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfo.cs
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\sanro\OneDrive\Escritorio\API WEATHER\segunda version\TareaAPI\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.pdb
